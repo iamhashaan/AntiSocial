@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779552247554",
+    "project_id": "antisocial-app-f2c20",
+    "storage_bucket": "antisocial-app-f2c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779552247554:android:837ce919052da1c2a2fc1b",
+        "android_client_info": {
+          "package_name": "com.hashaan.antisocialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779552247554-j2f53me3sid74urkv8mlunva1gkb3l45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_c0e_t2br-60YA3j_zyXQugXfeHzUOnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779552247554-j2f53me3sid74urkv8mlunva1gkb3l45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
